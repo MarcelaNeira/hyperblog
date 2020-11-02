@@ -12,7 +12,6 @@ Experimento 2
 Aparece modificado
 
 modificando en la rama comandos
-
-
 segundo commit
 modificamos este fichero desde la rama master y vamos a hacer un merge para luego hacer un push al origin
+tercer commit para probar el comando cherry-pick
